@@ -1,6 +1,9 @@
 # AI Hack Tunisia #5 - Predictive analytics challenge #2
 This challenge was designed specifically for the AI Tunisia Hack 2019, which takes place from 20 to 22 September. Welcome to the AI Tunisia Hack participants!
 
+## Challange link
+http://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2
+
 ## Challange info
 Flight delays not only irritate air passengers and disrupt their schedules but also cause :
 * a decrease in efficiency
