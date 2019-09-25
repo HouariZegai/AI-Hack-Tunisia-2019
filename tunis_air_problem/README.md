@@ -1,14 +1,6 @@
 # AI Hack Tunisia #5 - Predictive analytics challenge #2
 This challenge was designed specifically for the AI Tunisia Hack 2019, which takes place from 20 to 22 September. Welcome to the AI Tunisia Hack participants!
 
-## About the Hackathon
-The AI Hack Tunisia 2019 is the biggest ML/AI Hackathon ever in Tunisia, Africa, and the Middle East North Africa (MENA) region. It takes place on 20-22 September. The event is a double hackathon: the first part is an individual Machine Learning Challenge, and the second part is a group competition focused on a specific technology.
-
-## Hackathon info
-* Location: Rades, Tunisia.
-* Submission link: http://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2
-* Event link: https://www.ai-hack-tunisia.com/
-
 ## Challange info
 Flight delays not only irritate air passengers and disrupt their schedules but also cause :
 * a decrease in efficiency
